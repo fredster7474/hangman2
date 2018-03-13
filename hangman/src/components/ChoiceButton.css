@@ -1,0 +1,10 @@
+button.ChoiceButton {
+  border: 1px solid #ccc;
+  font-size: 100%;
+  cursor: pointer;
+  background-color: orange;
+}
+
+button.ChoiceButton:hover {
+  background-color: pink;
+}
